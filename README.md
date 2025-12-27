@@ -46,20 +46,13 @@ Desktop Assistant 是一个基于 Qt 的桌面助手应用，提供天气预报�
 2、需要修改weather_update.h中修改自己的和风天气api密钥。
 
 ## 作者
-[Brandonjhd](https://github.com/Brandonjhd)
+[uxudjs](https://github.com/uxudjs)
 [charles06-l](https://github.com/charles06-l)
-[clinedddd](https://github.com/clinedddd)
-[JDJD060520](https://github.com/JDJD060520)
-[lmnb66778](https://github.com/lmnb66778)
-[purple308](https://github.com/purple308)
 [xfr1688](https://github.com/xfr1688)
-
-## License
-本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源，使用、引用及分享时需署名，不得用于商业用途，衍生作品须采用相同协议共享。
-###请注意：
-- 本项目仅允许开源学习及个人非商业用途
-- 未经作者明确授权，禁止用于任何商业用途
-- 使用本项目时，请务必保留署名及本仓库出处：https://github.com/Brandonjhd/GetURLScheme
+[JDJD060520](https://github.com/JDJD060520)
+[purple308](https://github.com/purple308)
+[clinedddd](https://github.com/clinedddd)
+[lmnb66778](https://github.com/lmnb66778)
 
 ---
 
